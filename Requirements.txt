@@ -1,0 +1,2 @@
+# No external dependencies yet
+# We will add Flask, database libraries as we progress
